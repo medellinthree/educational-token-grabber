@@ -30,5 +30,8 @@ Demonstrar de forma didática e segura como funciona a captura e exfiltração d
 4. Execute o programa:
 
 ![Interface do BoostFPS](docs/Dist.png)
+
 ![Interface do BoostFPS](docs/interface.png)
-![Interface do BoostFPS](docs/Tokens capturados.png)
+
+![Tokens capturados](docs/Tokens%20capturados.png)
+
