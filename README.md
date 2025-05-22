@@ -28,4 +28,6 @@ Demonstrar de forma didática e segura como funciona a captura e exfiltração d
 2. Certifique-se de ter Python 3 instalado.
 3. Configure seu webhook Discord no arquivo `app.py` (procure pela variável `webhook_url`).
 4. Execute o programa:
-
+![Interface do BoostFPS](docs/Dist.png)
+![Interface do BoostFPS](docs/interface.png)
+![Tokens capturados](docs/Tokens capturados.png)
